@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Dagger2Java</string>
+
+    <string name="label_dagger">Dagger2</string>
+    <string name="label_msg">RxUtils value: \'%s\'</string>
+
+    <string name="msg_initializing">RxUtils is initialized</string>
+    <string name="msg_new_value">RxUtils sets new value</string>
+
+    <string name="btn_change_text">Change text</string>
 </resources>
