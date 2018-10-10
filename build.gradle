@@ -1,6 +1,11 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
+    ext {
+        support_library_version = '27.1.1'
+        dagger2_version = '2.16'
+        butterknife_version = '8.8.1'
+    }
     
     repositories {
         google()
